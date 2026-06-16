@@ -1,2 +1,59 @@
-# 719ce047-security-audit-ab-testing-a
-Stop choosing between security and conversion optimization—what if the changes that boost your sales also open a backdoor? This plugin lets you audit your WordPress site's vulnerabilities while running A/B tests, so you never sacrifice trust for growth.  Most security plugins ignore user experience, and A/B testing tools overlook vulnerabilities. T
+=== Security & Audit A/B Testing and Conversion Optimization WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Test headlines, layouts, CTAs, and pricing without external tools. Optimize conversions without monthly A/B testing subscriptions.
+
+== Description ==
+
+Test headlines, layouts, CTAs, and pricing without external tools. Optimize conversions without monthly A/B testing subscriptions.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Security & Audit A/B Testing and Conversion Optimization WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w14n7r13o809a9rKcZm1l)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w14n7r13o809a9rKcZm1l)
+
